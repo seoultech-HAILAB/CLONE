@@ -1,0 +1,71 @@
+## Step-by-Step Guidelines for Interpreting SNSB-C Test Results
+
+### Introduction
+The SNSB-C test results provide comprehensive data across various cognitive domains. These guidelines help determine whether a subject's cognitive level aligns with normal cognition/subjective cognitive decline (SCD) or mild cognitive impairment (MCI), early-stage dementia, or Alzheimer's disease.
+
+### Step 1: Evaluate General Cognitive Function
+- **Objective Data**: Review general cognitive scores such as K-MMSE-2 and overall SNSB-II.
+- **Interpretation**:
+  - **Option A**: Good performance across domains suggests normal cognition or SCD. 
+  - **Option B**: Poor performance in these metrics may indicate MCI, early-stage dementia, or Alzheimer's disease.
+
+### Step 2: Assess Attention
+- **Objective Data**: Analyze scores from attention-related tasks.
+- **Interpretation**:
+  - **Option A**: Normal range performance supports intact vigilance and focus, indicating normal cognition or SCD.
+  - **Option B**: Impairment in attention could suggest MCI or early dementia.
+
+### Step 3: Evaluate Memory Function
+- **Objective Data**: Consider scores from the Seoul Verbal Learning Test - Elderly's Version (SVLT-E).
+- **Interpretation**:
+  - **Option A**: High percentile scores and strong delayed recall indicate normal cognition or SCD.
+  - **Option B**: Poor memory performance, especially in delayed recall, suggests MCI or early dementia.
+
+### Step 4: Analyze Language Skills
+- **Objective Data**: Review comprehension, repetition, and naming abilities.
+- **Interpretation**:
+  - **Option A**: Performance within normal limits supports maintained language function, aligning with SCD if subjective concerns exist.
+  - **Option B**: Significant issues in language tasks may indicate MCI or dementia.
+
+### Step 5: Assess Visuospatial Functions
+- **Objective Data**: Examine performance on the Rey Complex Figure Test (RCFT).
+- **Interpretation**:
+  - **Option A**: Good scores suggest healthy visuospatial skills, supporting normal cognition or SCD.
+  - **Option B**: Poor performance in visuospatial tasks may indicate MCI or early dementia.
+
+### Step 6: Evaluate Executive Function
+- **Objective Data**: Review tasks like Digit Symbol Coding test (DSC) and Trail Making Test (K-TMT-E).
+- **Interpretation**:
+  - **Option A**: High performance indicates intact executive functions, supporting normal cognition or SCD.
+  - **Option B**: Impairments in these areas suggest MCI or early dementia.
+
+### Step 7: Consider Mood Assessment
+- **Objective Data**: Analyze depression scales.
+- **Interpretation**:
+  - **Option A**: Absence of significant depressive symptoms supports a diagnosis of normal cognition or SCD.
+  - **Option B**: Significant depression could contribute to cognitive decline, warranting further investigation.
+
+### Step 8: Review Daily Living Activities
+- **Objective Data**: Assess patient reports on daily activities.
+- **Interpretation**:
+  - **Option A**: No reported difficulties suggest functional independence, aligning with SCD if subjective concerns are present.
+  - **Option B**: Reported difficulties in daily tasks may indicate MCI or early dementia.
+
+### Step 9: Interpret Percentile Scores and Z-Scores
+- **Objective Data**: Compare scores to normative data.
+- **Interpretation**:
+  - **Option A**: High percentile scores (e.g., 97th percentile) across tasks suggest strengths without significant deficits, supporting normal cognition or SCD.
+  - **Option B**: Low percentile and Z-scores indicate impairments consistent with MCI or early dementia.
+
+### Step 10: Synthesize Clinical Context
+- **Objective Data**: Consider the combination of test results and subjective reports.
+- **Interpretation**:
+  - **Option A**: Normal objective measures with subjective cognitive concerns align with SCD, as there are no significant deficits to suggest more severe impairments.
+  - **Option B**: Objective evidence of deficits across multiple domains supports a diagnosis of MCI, early-stage dementia, or Alzheimer's disease.
+
+### Conclusion
+- **Diagnosis**:
+  - **Option A**: Subjective Cognitive Decline is supported when subjective concerns exist without corresponding objective evidence from testing that would indicate more severe cognitive impairments.
+  - **Option B**: Mild Cognitive Impairment or early-stage dementia/Alzheimer's disease is indicated by significant deficits in one or more cognitive domains, particularly if these impairments affect daily functioning.
+
+By following these steps and focusing on objective statistical data from neuropsychological tests, you can determine where a subject's cognitive level falls among the given options. Regular monitoring is recommended to detect any future changes in cognitive status.

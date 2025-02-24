@@ -1,0 +1,67 @@
+Here are the step-by-step guidelines for interpreting SNSB-C test results:
+
+**Step 1: Review Overall Performance**
+
+* Calculate the SNSB-C Total Score and determine its percentile rank to understand the patient's overall performance.
+* Identify if the %ile score is above 75 (e.g., 82.79), suggesting excellent overall attention abilities, or below 25 (e.g., 71.40), indicating a slight decline in specific cognitive functions.
+
+**Step 2: Evaluate Cognitive Domain-Specific Performance**
+
+* Calculate the Z Score and %ile scores for each cognitive domain:
+	+ Language: Confrontational naming ability, repetition skills
+	+ Visuospatial Functions: Rey Complex Figure Test - Copy Score
+	+ Memory: Seoul Verbal Learning Test - Elderly's Version (Immediate Recalls, Delayed Recall, Recognition, and Recognition Discriminability Index)
+	+ Frontal/Executive Functions: Contrasting Program (ability to form new concepts)
+* If the %ile scores for these domains are above 75 (e.g., 76.18), suggesting good performance, proceed to Step 3.
+
+**Step 3: Identify Specific Cognitive Weaknesses**
+
+* Calculate the Z Score and %ile scores for tasks that indicate specific cognitive weaknesses:
+	+ Digit Span Test - Backward
+	+ Korean Color Word Stroop Test 60 Seconds (K-CWST-60) - Color Reading
+	+ Repetition skills (%ile ≤ 15)
+* If the %ile scores are below 25 (e.g., %ile = 71.40), indicating a slight decline in specific cognitive functions, proceed to Step 4.
+
+**Step 4: Consider Self-Reported Information**
+
+* Review self-reported information on mood and daily functioning:
+	+ GDepS, SGDepS (mild levels of depression)
+	+ Daily living skills and instrumental activities
+* If the patient reports mild levels of depression, but daily living skills and instrumental activities are generally preserved, proceed to Step 5.
+
+**Step 5: Determine Cognitive Level**
+
+* Based on the combination of excellent overall attention abilities, good to very good performance in various cognitive domains, specific areas of decline, and self-reported mild levels of depression:
+	+ If the patient's condition corresponds to Subjective Cognitive Decline (SCD), with specific areas of decline, diagnose as SCD.
+	+ Otherwise, consider diagnosing as Normal Cognition or Subjective Cognitive Decline, depending on the severity of symptoms.
+
+**Step 6: Evaluate Exclusion Criteria**
+
+* Review results from tasks that may help rule out other explanations for cognitive complaints:
+	+ Geriatric Depression Scale (GDepS) and Short Version of the GDepS (SGDepS): assess for depression.
+	+ Trail Making Test (TMT): evaluates executive functions.
+* If there are no significant impairments in these areas, proceed to Step 7.
+
+**Step 7: Combine Objective Metrics and Subjective Reports**
+
+* Synthesize the information from Steps 1-6 to determine if there is a pattern of subtle cognitive difficulties or impairment across multiple domains.
+* Consider whether the combination of normal or slightly impaired performance, along with subjective complaints, supports a diagnosis of Subjective Cognitive Decline (SCD).
+
+**Step 8: Evaluate Objective Data**
+
+* Review all relevant test scores to ensure that no other domains show significant declines or abnormalities.
+* Consider any scores that may indicate a need for further evaluation or follow-up.
+
+**Step 9: Determine the Diagnostic Category**
+
+* Based on the analysis, determine which diagnostic category the patient falls under:
+	+ Normal cognition or Subjective cognitive decline (if no significant impairments are found)
+	+ Mild cognitive impairment, Early stage of dementia, or Alzheimer's disease (if significant impairments are found in multiple domains)
+
+**Step 10: Make a Diagnosis**
+
+* Based on the analysis, make a diagnosis for the patient:
+	+ In cases where cognitive impairment is observed in one domain but does not cause issues in daily life, consider diagnosing as Normal Cognition.
+	+ If there is evidence of significant impairments in multiple domains and the patient's condition corresponds to Mild Cognitive Impairment, Early stage of dementia, or Alzheimer's disease, diagnose accordingly.
+
+Note: These guidelines are based solely on the provided explanation and may not be a comprehensive or definitive guide to interpreting SNSB-C test results.

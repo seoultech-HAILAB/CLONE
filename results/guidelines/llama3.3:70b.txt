@@ -1,0 +1,62 @@
+**Step-by-Step Guidelines for Interpreting SNSB-C Test Results**
+
+### Step 1: Evaluate General Cognitive Function
+
+* Review the K-MMSE-2 score to determine overall cognitive function.
+* Excellent performance (e.g., high %ile score and z-score) indicates strong general cognitive abilities, suggesting **Option A: Normal cognition or Subjective cognitive decline**.
+
+### Step 2: Assess Attention and Concentration Abilities
+
+* Examine the Digit Span Test (DST) Forward and Backward scores, including %ile scores and z-scores.
+* Impaired performance (e.g., low %ile score ≤ 10 and z-score ≤ -1.0) may indicate difficulties with working memory and attention, suggesting **Option B: Mild cognitive impairment, Early stage of dementia, or Alzheimer's disease**.
+
+### Step 3: Evaluate Language Domain
+
+* Assess the Short Form of the K-BNT (S-K-BNT) score, including %ile score and z-score.
+* A %ile score ≤ 5 and a z-score ≤ -2.0 may indicate significant impairment in confrontation naming ability, suggesting **Option B: Mild cognitive impairment, Early stage of dementia, or Alzheimer's disease**.
+* Repetition test results with raw scores and %ile scores < 5 may also indicate difficulties with repetition.
+
+### Step 4: Assess Visuospatial Functions
+
+* Review the Rey Complex Figure Test (RCFT) Copy Score, including %ile score and z-score.
+* A %ile score ≤ 5 and a z-score ≤ -1.5 may indicate decline in visuospatial perception and analysis/construction abilities, suggesting **Option B: Mild cognitive impairment, Early stage of dementia, or Alzheimer's disease**.
+
+### Step 5: Evaluate Frontal/Executive Functions
+
+* Examine the Digit Symbol Coding (DSC) test results, including raw scores, %ile scores, and z-scores.
+* A %ile score ≤ 5 and a z-score ≤ -1.5 may indicate decreased psychomotor speed, suggesting **Option B: Mild cognitive impairment, Early stage of dementia, or Alzheimer's disease**.
+* Assess the Controlled Oral Word Association Test (COWAT) results, specifically the animal category, looking for raw scores and %ile scores that suggest a decrease in semantic generative naming ability (< 15).
+* Evaluate the Trail Making Test Part B time and corresponding %ile score and z-score. A %ile score ≤ 5 and a z-score ≤ -1.5 may indicate difficulties with mental set shifting and divided attention.
+* Review the Korean Color Word Stroop Test (K-CWST-60) Color Reading correct responses and corresponding %ile score and z-score. A %ile score ≤ 5 and a z-score ≤ -2.0 may suggest impaired inhibitory control.
+
+### Step 6: Assess Memory
+
+* Examine the Seoul Verbal Learning Test-Elderly's Version (SVLT-E) Immediate Recalls, Total Score, and Delayed Recall score.
+* Look for %ile scores and z-scores that indicate some impairment in memory (e.g., %ile score < 20 and z-score ≤ -1.0).
+* However, if recognition memory is relatively preserved (e.g., %ile score > 50 and z-score ≥ 0), it may not be a significant indicator of cognitive decline.
+
+### Step 7: Consider Other Domains
+
+* Evaluate attention as measured by the Digit Span Test (DST) Forward and backward tests.
+* A raw score ≤ 5 and a %ile score ≤ 10 on the backward test may indicate impaired attention, suggesting **Option B: Mild cognitive impairment, Early stage of dementia, or Alzheimer's disease**.
+* Review the Geriatric Depression Scale (GDepS) and Short Version of the GDepS (SGDepS) scores to rule out clinically significant levels of depression.
+
+### Step 8: Determine Diagnosis
+
+* If cognitive decline is present in one or more domains (e.g., language, visuospatial, frontal/executive) without significant impairment in memory, consider a diagnosis of **Option B: Mild cognitive impairment, Early stage of dementia, or Alzheimer's disease**.
+* If the patient's ability to perform daily living activities independently is preserved, it supports a diagnosis of **Option A: Normal cognition or Subjective cognitive decline** rather than **Option B: Mild cognitive impairment, Early stage of dementia, or Alzheimer's disease**.
+* Neuropsychological test results indicating cognitive decline that is more pronounced than subjectively reported may also support the need for close monitoring and possible intervention to prevent further decline.
+
+### Step 9: Consider Cases with Mixed Results
+
+* If cognitive impairment is observed in one domain (e.g., language, visuospatial), but does not cause issues in daily life, consider **Option A: Normal cognition or Subjective cognitive decline**.
+* If cognitive impairment is observed in multiple domains (e.g., language, visuospatial, frontal/executive), and causes significant issues in daily life, consider **Option B: Mild cognitive impairment, Early stage of dementia, or Alzheimer's disease**.
+* If cognitive impairment is observed in one domain (e.g., memory), but is not severe enough to cause significant issues in daily life, consider **Option A: Normal cognition or Subjective cognitive decline**.
+
+### Step 10: Finalize Diagnosis
+
+* Based on the evaluation of all domains and consideration of mixed results, determine the final diagnosis:
+	+ **Option A: Normal cognition or Subjective cognitive decline**: If no significant cognitive impairment is observed, or if cognitive impairment is present but does not cause significant issues in daily life.
+	+ **Option B: Mild cognitive impairment, Early stage of dementia, or Alzheimer's disease**: If significant cognitive impairment is observed in one or more domains, and causes significant issues in daily life.
+
+By following these step-by-step guidelines, you can utilize objective statistical data to interpret SNSB-C test results and determine where the subject's cognitive level falls among the provided options.

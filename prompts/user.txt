@@ -1,0 +1,11 @@
+### Task description
+1. First, write the clinical rationale based on the given information below.
+2. Next, use this rationale to make a final diagnosis. 
+3. Your response format should be as follows: '### Clinical Rationale\n[rationale]\n\n### Diagnosis\n[(A)/(B)]'
+
+{context}
+
+### Question for diagnosis
+What is the diagnosis of this subject?
+- (A) Normal cognition or Subject cognitive decline.
+- (B) Mild cognitive impairment, Early stage of dementia, or Alzheimer's disease
