@@ -30,8 +30,14 @@ class AbstractResponseEvaluator:
         Save the evaluation results to a file.
         """
         os.makedirs(os.path.dirname(results_path), exist_ok=True)
-        with jsonlines.open(results_path, mode="a") as writer:
-            writer.write(eval_result)
+        if isinstance(eval_result, dict):
+            with jsonlines.open(results_path, mode="a") as writer:
+                writer.write(eval_result)
+        elif isinstance(eval_result, list):
+            with jsonlines.open(results_path, mode="a") as writer:
+                writer.write_all(eval_result)
+        else:
+            raise ValueError("Unsupported evaluation result format.")
             
     def load_cached_results(self, results_path):
         """
