@@ -1,0 +1,43 @@
+### Step-By-Step Guidelines for Interpreting SNSB-C Test Results
+
+1. **Introduction**
+   - Begin by understanding the purpose of the SNSB-C test battery, which evaluates various cognitive domains to determine a subject's cognitive level.
+
+2. **Review Each Cognitive Domain Individually**
+   - Examine results from each domain assessed by the SNSB-C:
+     - Attention
+     - Language
+     - Praxis
+     - Visuospatial Functions
+     - Memory
+     - Executive Functions
+     - Inhibition
+     - Daily Living Activities
+     - Mood
+     - Overall Cognitive Rating
+
+3. **Compare Scores to Normative Data**
+   - For each test within these domains, compare the subject's scores to normative data provided by the SNSB-C manual. This comparison helps determine if results fall within normal limits or indicate impairment.
+
+4. **Identify Impairments Using Statistical Thresholds**
+   - Use objective statistical thresholds (e.g., below 25th percentile) to identify impairments in each domain. For example, a Digit Span Test score below the 25th percentile suggests working memory impairment.
+
+5. **Analyze Specific Test Results**
+   - Examine specific tests within each domain:
+     - **Attention:** Vigilance Test and Digit Span Test.
+     - **Language:** Comprehension, Repetition, and S- K- BNT.
+     - **Praxis:** Ideomotor Test.
+     - **Visuospatial Functions:** Rey Complex Figure Test.
+     - **Memory:** SVLT-E, Delayed Recall, Recognition.
+     - **Executive Functions:** Contrasting Program, Go-No Go, K-TMT-E.
+     - **Inhibition:** Korean Color Word Stroop Test.
+     - **Daily Living Activities:** Barthel-ADL, K-IADL.
+     - **Mood and Cognitive Rating:** GDepS, SGDepS, CDR-GS, GDS.
+
+6. **Synthesize Findings into a Cognitive Profile**
+   - Aggregate the results from each domain to create a comprehensive cognitive profile. Highlight areas of strength and impairment based on statistical data.
+
+7. **Make a Diagnosis Based on the Cognitive Profile**
+   - Use the synthesized findings to diagnose the subject's cognitive level. For instance, impairments in memory, visuospatial skills, and executive functions may suggest early-stage dementia, such as Alzheimer's disease.
+
+**Note:** These guidelines strictly follow the provided information without incorporating external knowledge or experience, ensuring an objective interpretation based solely on statistical data from the SNSB-C test results.

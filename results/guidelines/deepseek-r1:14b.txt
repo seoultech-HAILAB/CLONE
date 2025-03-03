@@ -1,0 +1,19 @@
+**Step-by-Step Interpretation of SNSB-C Test Results**
+
+1. **Administer the SNSB-C Test**: Begin by administering the SNSB-C test to the subject. Ensure that the test is conducted under standardized conditions, following all provided instructions and guidelines.
+
+2. **Score the Test**: After completion, score the test using the predefined scoring criteria. This may involve summing correct answers or timing specific sections as required by the test protocol.
+
+3. **Compare with Normative Data**: Adjust the scored results based on normative data that accounts for the subject's age and educational background. This comparison helps determine if the scores fall within expected ranges.
+
+4. **Interpret Results for Cognitive Level**:
+   - **Option A (Normal Cognition or Subjective Decline)**: If scores are within normal range, classify as normal cognition. For subjective decline, look for slightly lower but not significantly below-average scores.
+   - **Option B (Mild Impairment/Dementia)**: Identify significantly below-average scores, considering cutoff points specified in guidelines.
+
+5. **Consider Additional Factors**: Evaluate other factors such as the rate of decline and presence of symptoms to aid in diagnosis.
+
+6. **Monitor Progression**: Regularly re-administer the test at follow-up appointments to track changes in cognitive performance over time.
+
+7. **Consult Guidelines**: Refer to official SNSB-C manuals for precise cutoff scores and protocols, ensuring accurate classification of cognitive levels.
+
+By following these steps, you can systematically interpret SNSB-C results, combining standardized testing, statistical analysis, and clinical judgment for an accurate assessment of cognitive function.

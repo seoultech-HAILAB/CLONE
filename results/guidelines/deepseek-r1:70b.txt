@@ -1,0 +1,33 @@
+**Step-by-Step Interpretation of SNSB-C Test Results**
+
+1. **Assess Attention:**
+   - Evaluate Digit Span forward and backward scores.
+   - Normal performance suggests intact attentional abilities.
+
+2. **Evaluate Language Function:**
+   - Review Repetition and S-K-BNT (naming test) scores.
+   - Low Repetition score indicates verbal repetition issues, while normal naming suggests specific language impairment.
+
+3. **Examine Visuospatial Skills:**
+   - Analyze Rey Complex Figure Test results for copy and time.
+   - Normal scores imply intact visuospatial abilities, ruling out conditions like dementia with Lewy bodies.
+
+4. **Analyze Memory Performance:**
+   - Focus on SVLT-E Immediate Recall, Delayed Recall, and Recognition.
+   - Low scores in these areas indicate significant verbal memory deficits, especially in retention.
+
+5. **Evaluate Frontal/Executive Functions:**
+   - Assess Trail Making Test Part B and Stroop test results.
+   - Normal or above-average performance suggests intact executive functions.
+
+6. **Consider Other Factors:**
+   - Check for signs of depression using GDepS and SGDepS.
+   - Review Barthel-ADL for daily functioning and CDR-GS for dementia staging.
+
+7. **Synthesize Findings:**
+   - Identify the primary cognitive deficit, focusing on verbal memory impairment with spared other domains.
+
+8. **Diagnosis:**
+   - Conclude single domain amnestic Mild Cognitive Impairment based on isolated verbal memory deficits and normal functioning in other areas.
+
+This structured approach ensures a comprehensive understanding of cognitive strengths and weaknesses, guiding an accurate diagnosis.
